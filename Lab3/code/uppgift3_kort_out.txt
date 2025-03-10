@@ -1,0 +1,6 @@
+Anagram group (3 words): dreaming margined midrange 
+Anagram group (3 words): kale lake leak 
+Anagram group (6 words): earls lares laser rales reals seral 
+Anagram group (2 words): kitchen thicken 
+Anagram group (2 words): compiler complier 
+Anagram group (4 words): hist hits shit this 
